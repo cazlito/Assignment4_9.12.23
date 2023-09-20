@@ -27,3 +27,33 @@ if gradeA == true {
 else {
     print("This class is not my parte")
 }
+//part 5
+var a = 5
+var b = 10
+
+if a > b {
+    print("this conditional is true")
+}
+else {
+    print("this conditional is false")
+}
+
+var stringOne = "I am string one"
+var stringTwo = "I am string one"
+
+if stringOne == stringTwo {
+    print(stringOne + stringTwo)
+}
+else {
+    print("this shouldn't show")
+}
+
+var b1 = true
+var b2 = false
+
+if b1 == b2 {
+    print("if you see me then something is up")
+}
+else {
+    print("you should see me")
+}
